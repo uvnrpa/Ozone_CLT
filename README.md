@@ -20,4 +20,5 @@ GUV-Serialnumber: The serial number of the GUV-541/511 instrument operating at t
 Missing data is indicated with NAN.
 
 Data is provided by Bjørn Johnsen at the Norwegian Radiation and Nuclear Safety Authority (https://DSA.no)
+
 Email: Bjorn.Johnsen@DSA.no
