@@ -1,5 +1,5 @@
 # Ozone_CloudTransmission
-Total ozone and Cloud transmittance retrieved from GUV-instruments operating at the UV-network locations, and corresponding total ozone amount from TOMS/OMI overpass data.
+Total ozone and Cloud transmittance at local noon, retrieved from GUV-instruments operating at the UV-network locations, and corresponding total ozone amount from TOMS/OMI overpass data.
 The method for retrieving total ozone from GUV-instruments is described in Dahlback, A., Appl. Opt. Vol. 35, No. 33, 1996.
 
 Calibrations: Ozone data has been corrected for solar zenith angle (SZA) and cloud transmittance, based on a regression against long term series of OMI overpass data. Hence, the ozone data reflects the absolute calibration scale of the OMI instrument.
